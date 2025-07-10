@@ -134,3 +134,15 @@ video {
   text-align: center;
   transition: opacity 0.3s ease;
 }
+
+.third-section{
+  margin-top: 20px;
+  display: flex;
+  background-color: gray;
+}
+
+.third-1{
+  text-align: center;
+  width: 700px;
+  height: auto;
+}
